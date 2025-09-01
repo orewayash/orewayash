@@ -29,8 +29,3 @@
 </div>
 
 ###
-
-<div align="left">
-</div>
-
-###
