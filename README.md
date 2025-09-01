@@ -2,7 +2,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgur.com/fmXS1ic.gif"  />
+<br clear="both">
+
+<img align="left" height="150" src="https://i.imgur.com/fmXS1ic.gif"  />
 
 ###
 
@@ -19,6 +21,9 @@
   </a>
   <a href="https://www.instagram.com/orewayash?utm_source=ig_web_button_share_sheet&igsh=eWhsbGh3Y2Izd2l0" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="instagram logo"  />
+  </a>
+  <a href="https://hardwork.itch.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="itch logo"  />
   </a>
 </div>
 
